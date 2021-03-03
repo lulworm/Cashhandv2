@@ -1,5 +1,5 @@
 ---
-name: "Cashhand-osx-2.2"
+name: "cashhand-osx-2.2"
 enable_cache: true
 distro: "ubuntu"
 suites:
