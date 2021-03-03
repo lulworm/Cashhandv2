@@ -29,7 +29,7 @@ packages:
 - "python3-setuptools"
 - "fonts-tuffy"
 remotes:
-- "url": "https://github.com/lulworm/Cashhandv2.git"
+- "url": "https://github.com/lulworm/cashhand.git"
   "dir": "cashhand"
 files:
 - "MacOSX10.11.sdk.tar.gz"
