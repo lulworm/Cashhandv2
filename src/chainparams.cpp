@@ -193,16 +193,16 @@ public:
         nDefaultPort = 17240;
 
         // Note that of those with the service bits flag, most only support a subset of possible options
-        vSeeds.push_back(CDNSSeedData("node1", "node1.cashhand.info"));
-        vSeeds.push_back(CDNSSeedData("node2", "node2.cashhand.info"));
-        vSeeds.push_back(CDNSSeedData("node3", "node3.cashhand.info"));
-        vSeeds.push_back(CDNSSeedData("node4", "node4.cashhand.info"));
-        vSeeds.push_back(CDNSSeedData("node5", "node5.cashhand.info"));
-        vSeeds.push_back(CDNSSeedData("node6", "node6.cashhand.info"));
-        vSeeds.push_back(CDNSSeedData("node7", "node7.cashhand.info"));
-        vSeeds.push_back(CDNSSeedData("node8", "node8.cashhand.info"));
-        vSeeds.push_back(CDNSSeedData("node9", "node9.cashhand.info"));
-        vSeeds.push_back(CDNSSeedData("node10", "node10.cashhand.info"));
+        vSeeds.push_back(CDNSSeedData("node11", "node11.cashhand.info"));
+        vSeeds.push_back(CDNSSeedData("node12", "node12.cashhand.info"));
+        vSeeds.push_back(CDNSSeedData("node13", "node13.cashhand.info"));
+        vSeeds.push_back(CDNSSeedData("node14", "node14.cashhand.info"));
+        vSeeds.push_back(CDNSSeedData("node15", "node15.cashhand.info"));
+        vSeeds.push_back(CDNSSeedData("node16", "node16.cashhand.info"));
+        vSeeds.push_back(CDNSSeedData("node17", "node17.cashhand.info"));
+        vSeeds.push_back(CDNSSeedData("node18", "node18.cashhand.info"));
+        vSeeds.push_back(CDNSSeedData("node19", "node19.cashhand.info"));
+        vSeeds.push_back(CDNSSeedData("node20", "node20.cashhand.info"));
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 87);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 10);
